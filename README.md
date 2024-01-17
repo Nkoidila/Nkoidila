@@ -1,8 +1,11 @@
-Het there data darlings.😎 Kores here🤠
+HELLO there data darlings.😎 KORES here🤠
 
-Welcome to my not so little corner of the data driven universe, Weaving a narrative that combines hardware and algorithms to create solutions that go beyond screens and circuits
+Welcome to my not so little corner of the data driven universe, Weaving a narrative that combines hardware and algorithms to create solutions that go beyond screens and circuits.
 Let's explore the synergies of computer engineering and the bountiful possibilities that machine learning brings to agriculture. Together, let's innovate, cultivate, and celebrate the future we're sowing today.
 In the spirit of a Leo's boldness, I invite you to share in the radiance of our shared exploration—where the fields of technology and agriculture converge under the Leo's guiding star. 🌟🌾
+
+
+Currently learning AI and Data science at Code3Camp (https://www.linkedin.com/company/code3camp/)
 
 <!--
 **Nkoidila/Nkoidila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

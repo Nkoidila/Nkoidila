@@ -1,10 +1,10 @@
 Hello there data darlings. KORES here
 
 Welcome to my not so little corner of the data driven universe, Weaving a narrative that combines hardware and algorithms to create solutions that go beyond screens and circuits.
-Let's explore computer engineering and the bountiful possibilities that machine learning brings to agriculture. Together, let's innovate, cultivate, and celebrate the future we're sowing today.
+Let's explore computer engineering and the bountiful possibilities that machine learning brings.
 
 
-
+- Electronics and Computer Engineering undergrad student at JKUAT
 -🔭Currently learning AI and Data science at [Code3Camp](https://www.linkedin.com/company/code3camp/)
 -📫Reach me at [Koresnkoidila@gmail.com](Koresnkoidila@gmail.com) or my twitter page [Kores](https://twitter.com/KoresNkoidila)
 
